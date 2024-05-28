@@ -1,0 +1,168 @@
+{
+    "carousel":[
+        {
+            "img":"https://img.freepik.com/free-vector/cash-delivery-concept_23-2148798392.jpg?size=626&ext=jpg&ga=GA1.1.1472873004.1713352856&semt=sph"
+        },
+        {
+            "img":"https://www.bidderboy.com/images/infographic.png"
+        },
+        {
+            "img":"https://images.pexels.com/photos/5650026/pexels-photo-5650026.jpeg?auto=compress&cs=tinysrgb&w=600"
+        }
+    ],
+    "aution":[
+        {
+            "id":"A-24-5418",
+            "date":"13-05-2024",
+            "type":"e_Aution",
+           "company":"Power Grid",
+           "particulars":"Sale of Plant and Machinery, At - Kolkata, West Bengal"
+        },
+        {
+            "id":"A-24-5418",
+            "date":"13-05-2024",
+            "type":"e_Aution",
+           "company":"Coal India",
+           "particulars":"Sale of Plant and Machinery, At - Kolkata, West Bengal"
+        },
+        {
+            "id":"A-24-5421",
+            "date":"13-05-2024",
+            "type":"e_Aution",
+           "company":"Grasim",
+           "particulars":"Sale Of M1 Batching Plant Pan, Loader, Water Tank, Air Compressor, TM Wash Dome, At - Panvel, Navi Mumbai, Maharashtra"
+        },
+        {
+            "id":"A-24-5422",
+            "date":"10-05-2024",
+            "type":"e_Aution",
+           "company":"Nestleind",
+           "particulars":"Sale Of Bucket Elevator, Loader, Weigh Bridge, Silo, Office Container, Toilet Container, Porta container, Screw Conveyor, At - Turbhe, Navi Mumbai, Maharashtra"
+        },
+        {
+            "id":"A-24-5414",
+            "date":"10-05-2024",
+            "type":"e_Aution",
+           "company":"JSW Steel",
+           "particulars":"Sale Of Sale of Scrap Iron & Steel,Mix Scrap of Rejected Mutilated Components,Packing Wood with Ply and Batons,Wood Pallets Mix Scrap of Air filter, Rubber sheet, Fibre,Mixed Metal Dust"
+        },
+        {
+            "id":"A-24-5415",
+            "date":"08-05-2024",
+            "type":"e_Aution",
+           "company":"Ultra Meco",
+           "particulars":"Sale of SFG machine, Perfecta cutting machine, Hot foil stamping machine, At - Haridwar, Uttarakhand"
+        },
+        {
+            "id":"A-24-5429",
+            "date":"08-05-2024",
+            "type":"e_Aution",
+           "company":"JindalSaw",
+           "particulars":"Sale of MIX IRON, TYRE SCRAP, RUBBER SCRAP, CONVEYER BELT SCRAP, BATTERY SCRAP, CAST IRON, GI SCRAP, At - Sidhi, Madhya Pradesh"
+        },
+        {
+            "id":"A-24-5432",
+            "date":"07-05-2024",
+            "type":"e_Aution",
+           "company":"RBA",
+           "particulars":"Sale of SCRAP IRON, SCRAP CAST STEEL, SCRAP TOOL, SCRAP ALUMINIUM, SCRAP IDLE ASSET, SCRAP HAZARDOUS, At - Renusagar, Uttar Pradesh"
+        },
+        {
+            "id": "B-18-9876",
+            "date": "10-05-2024",
+            "type": "e_Aution",
+            "company": "XYZ Corporation",
+            "particulars": "Sale of SCRAP COPPER, SCRAP ALUMINIUM, SCRAP STEEL, SCRAP BRASS, SCRAP PLASTIC, At - Industrial Area, City"
+        },
+        {
+            "id": "D-12-1357",
+            "date": "20-05-2024",
+            "type": "e_Aution",
+            "company": "Green Eco Solutions",
+            "particulars": "Sale Of ABS Bobbins, Al burnt dross, Al with Plastic core, binding wire, Asbestos sheet"
+        },
+        {
+            "id": "C-03-2468",
+            "date": "15-05-2024",
+            "type": "e_Aution",
+            "company": "ABC Recycling Ltd.",
+            "particulars": "Sale of SCRAP ELECTRONICS, SCRAP CIRCUIT BOARDS, SCRAP CABLES, SCRAP BATTERIES, At - Recycling Facility, Town"
+            },
+            {
+                "id": "E-09-3690",
+                "date": "25-05-2024",
+                "type": "e_Aution",
+                "company": "Eco-Friendly Recyclers",
+                "particulars": "Sale of SCRAP TIRES, SCRAP RUBBER, SCRAP METALS, SCRAP PLASTICS, SCRAP ELECTRONICS, At - Recycling Center, State"
+                },
+                {
+                    "id": "J-25-3698",
+                    "date": "20-06-2024",
+                    "type": "e_Aution",
+                    "company": "RecycleNow Enterprises",
+                    "particulars": "Sale Of Soda Ash ( GHCL Make), At - Naroda, Santej, Gujarat"
+                    },
+                    {
+                        "id": "I-30-4875",
+                        "date": "15-06-2024",
+                        "type": "e_Aution",
+                        "company": "Sustainable Solutions Ltd.",
+                        "particulars": "Sale of SCRAP ELECTRONICS, SCRAP CIRCUIT BOARDS, SCRAP BATTERIES, SCRAP PLASTICS, At - Recycling Plant, Industrial Estate"
+                    },
+                    {
+                        "id": "H-07-9264",
+                        "date": "10-06-2024",
+                        "type": "e_Aution",
+                        "company": "EnviroGreen Solutions",
+                        "particulars": "Particular of Glass, Graphite, MS, Plastic, Wooden Scrap, At-Waluj, Aurangabad, Maharashtra"
+                        },
+                        {
+                            "id": "G-14-5823",
+                            "date": "05-06-2024",
+                            "type": "e_Aution",
+                            "company": "EcoRecycle Technologies",
+                            "particulars": "Sale of Copper, Hazardous Waste, MS, Plastic"
+                        },
+                        {
+                            "id": "F-21-7531",
+                            "date": "30-05-2024",
+                            "type": "e_Aution",
+                            "company": "Green Solutions Inc.",
+                            "particulars": "Sale of Copper, Hazardous Waste, MS, Plastic"
+                            }
+    ],
+
+    "events":[
+        {
+            "date":"07-05-2024",
+            "event":"Propeerty Auction"
+        },
+        {
+            "date":"08-05-2024",
+            "event":"Steel Auction"
+        },
+        {
+            "date":"09-05-2024",
+            "event":"Vehicle Auction"
+        },
+        {
+            "date":"09-05-2024",
+            "event":"Iron Auction"
+        }
+    ],
+
+    "statistics":[
+        {
+            "time":"04/05/2024 0900",
+            "total":2511,
+            "advance":901,
+            "decline":1511,
+            "unchange":99,
+            "upper":106,
+            "lower":58
+        }
+        
+    ]
+
+}
+

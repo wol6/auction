@@ -1,0 +1,23 @@
+.footer{
+    background-color: rgb(247, 246, 245);
+    height: 250px;
+    color: royalblue;
+}
+
+.footerCase{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid rgb(175, 173, 173);
+    margin: 0 10px;
+}
+.copyrigt{
+    float: right;
+    margin: 0px 50px;
+}
+.footerHead{
+    font-size: 21px;
+}
+.footerpara{
+    font-size: 16px;
+}

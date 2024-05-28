@@ -1,0 +1,24 @@
+.eventBox{
+    /* border: 1px solid black; */
+    width: 520px;
+    height: 330px;
+
+}
+.eventBox h2{
+    padding-left: 60px;
+    color: #4C3F93;
+}
+.eventCase{
+    text-align: center;
+    margin-top: 60px;
+    color: #4C3F93;
+}
+.eventActiveHead {
+    font-size: 28px;
+}
+.eventActiveDate {
+    font-size: 20px;
+}
+.eventActiveEvent {
+    font-size: 20px;
+}

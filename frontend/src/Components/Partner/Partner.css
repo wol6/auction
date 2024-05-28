@@ -1,0 +1,32 @@
+
+.partnerDisplay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 110px;
+}
+.partnerDisplay h1{
+    width: 440px;
+    margin: 44px 120px;
+    padding-left: 50px;
+    font-size: 45px;
+    color: #4C3F93;
+}
+.partners{
+    display: grid;
+    grid-template-columns: 180px 180px 180px;
+    padding: 8px;
+    /* border: 1px solid black; */
+    width: 80%;
+    margin-top: 50px;
+    margin-left: -40px;
+}
+.item{
+    border: 1px solid #f3efef;
+    background-color: #fff;
+    padding: 2px;
+}
+.item img{
+    width: 90px;
+   
+}

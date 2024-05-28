@@ -1,0 +1,39 @@
+.mainContainer{
+    /* border: 1px solid black; */
+}
+.mainHead{
+    border-bottom: 1px solid rgb(177, 174, 174);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+.mainHead img{
+    width: 150px;
+    height: 100px;
+    z-index: -1;
+}
+.headOne{
+    display: flex;
+}
+.headBtn{
+   padding-left: 400px;
+}
+.headBtn button{
+    margin: 0 9px;
+    background-color: #fff;
+    /* width: 25px; */
+    color: royalblue;
+    font-size: 15px;
+    cursor: pointer;
+}
+.headOne h3{
+    margin-left: 10px;
+    padding: 0 15px; 
+}
+.headOne a{
+    color: royalblue;
+}
+.activeLink{
+    font-size: 20.3px;
+}

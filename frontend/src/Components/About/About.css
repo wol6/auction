@@ -1,0 +1,15 @@
+.aboutContainer{
+    margin: 40px 140px;
+    padding: 5px 40px;
+    background: rgb(225, 226, 228);
+    color: #0A59A4;
+    border-radius: 5px;
+}
+.aboutContainer h1{
+    text-align: center;
+}
+.aboutContainer p{
+    font-size: 18px;
+    word-spacing: 2px;
+}
+

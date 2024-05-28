@@ -1,0 +1,54 @@
+.navBar{
+    /* border-bottom: 1px solid black; */
+    display: flex;
+    padding: 5px 95px;
+  
+}
+.navBar button{
+    width: 166px;
+    background-color: royalblue;
+    height: 40px;
+    border-radius: 4px;
+    border: 0;
+    font-size: 15.5px;
+    margin: 0px 10px;
+    cursor: pointer;
+}
+.active a{
+    font-size: 18px;
+}
+
+.dropList{
+    text-decoration: none;
+    position: absolute;
+    width: 100px;
+    height: 0px;
+    transition: height 0.4s;
+    z-index: 2;
+    margin-left: 10px;
+}
+.dropList a{
+    display: none;
+    padding: 5px 60px;
+    text-decoration: none;
+    background:linear-gradient(to right ,rgba(54, 128, 224, 0.8)0%,rgba(54, 128, 224, 0.3)100%,rgba(54, 128, 224, 0.8)100%);
+   
+}
+.dropDown:hover .dropList a{
+    display: block;
+    cursor: pointer;
+    height: 60px;
+    width: 250px;
+    font-size: 20px;
+    /* padding: 10px; */
+    
+}
+.dropDown a:hover{
+    background-color:  rgb(41, 95, 212);
+}
+.navBar a{
+    text-decoration: none;
+    color: #fff;
+}
+
+

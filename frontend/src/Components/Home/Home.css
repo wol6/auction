@@ -1,0 +1,36 @@
+.autionList{
+    /* border: 2px solid black; */
+    margin: 15px 80px;
+}
+table{
+    border-collapse: collapse;
+    background: #fff;
+    text-align: left;
+
+    th{
+        background-color: rgb(162, 209, 236);
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-size: 18px;
+        font-weight: 900;
+        padding: 5px 10px;
+        color: #4C3F93;
+
+    }
+    td{
+        padding: 10px 15px;
+        font-size: 17px;
+        color: royalblue;
+    }
+    tr:nth-child(even){
+        background-color: rgb(224, 231, 233);
+    }
+}
+.tableHeadFont{
+    font-size: 21px;
+}
+.tableHeadFont{
+    font-size: 20px;
+}
+
+

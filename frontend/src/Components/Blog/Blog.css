@@ -1,0 +1,21 @@
+.blogContainer{
+    margin: 25px 100px;
+    background: rgb(238, 225, 201);
+    padding: 2px 50px;
+    border-radius: 10px;
+}
+.blogContainer h1{
+    text-align: center;
+    background: brown;
+    color: antiquewhite;
+}
+.blogContainer img{
+    width: 600px;
+    height: 300px;
+}
+.blogContainer p{
+    font-size: 20px;
+    font-weight: 400;
+    word-spacing: 2px;
+    line-height: 25px;
+}
